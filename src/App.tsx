@@ -1,5 +1,3 @@
-import { Axios } from 'axios';
-import React from 'react';
 import Routers from './router/Routers';
 import { AxiosInterceptor } from './shared/boiler/AxiosInterceptor';
 import Layout from './shared/component/Layout';
