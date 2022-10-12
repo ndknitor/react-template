@@ -1,5 +1,5 @@
 import Routers from './router/Routers';
-import { AxiosInterceptor } from './shared/boiler/AxiosInterceptor';
+import { AxiosInterceptor } from './shared/component/AxiosInterceptor';
 import Layout from './shared/component/Layout';
 import Provider from './shared/context/Provider';
 import './style.css';
